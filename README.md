@@ -1,2 +1,2 @@
-# CARES
-Plain Language Summarization of Clinical Trials
+# Plain Language Summarization of Clinical Trials
+
