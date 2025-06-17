@@ -13,7 +13,7 @@ This repository contains CARES (Clinical Abstractive Result Extraction and Simpl
 ├── plain_language_summaries: complete plain language summaries, organized by subsections
 ├── raw_sources: raw texts of source documents
     ├── study_protocols: Study Protocol texts
-    └── synopses: Clinical Sunopses texts
+    └── synopses: Clinical Synopses texts
 └── train_test_splits: data for training and testing
 ```
 
